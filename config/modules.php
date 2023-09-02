@@ -15,7 +15,7 @@ return [
     'generate' => [
         'controller' => true,
         'resource' => false,
-        'request' => true,
+        'request' => false,
         'model' => true,
         'mail' => false,
         'notification' => false,
